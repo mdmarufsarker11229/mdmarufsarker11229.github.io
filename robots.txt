@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mdmarufsarker11229.github.io/sitemap.xml
