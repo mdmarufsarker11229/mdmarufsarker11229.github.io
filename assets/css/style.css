@@ -203,6 +203,7 @@ main, .footer { position: relative; z-index: 1; }
 .p-shot { position: relative; height: 220px; display: grid; place-items: center; overflow: hidden; }
 .p-gym { background: linear-gradient(135deg, #4f46e5, #7c3aed 55%, #ec4899); }
 .p-travel { background: linear-gradient(135deg, #0891b2, #2563eb 55%, #6366f1); }
+.p-office { background: linear-gradient(135deg, #059669, #0d9488 55%, #0284c7); }
 .p-shot > span { position: absolute; left: 1.2rem; bottom: 1rem; font-weight: 600; font-size: 0.85rem; padding: 0.3rem 0.8rem; border-radius: 999px; background: rgba(0, 0, 0, 0.35); color: #fff; backdrop-filter: blur(6px); }
 .mock { width: 62%; height: 62%; padding: 14px; border-radius: 14px; background: rgba(255, 255, 255, 0.14); border: 1px solid rgba(255, 255, 255, 0.28); backdrop-filter: blur(8px); display: grid; grid-template-columns: repeat(3, 1fr); grid-template-rows: 14px 1fr; gap: 10px; transition: transform 0.5s; }
 .project:hover .mock { transform: scale(1.06) rotate(-1.5deg); }
